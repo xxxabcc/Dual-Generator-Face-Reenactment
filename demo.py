@@ -8,7 +8,7 @@ import os
 from skimage import transform as trans
 from core.model_lm_talking import build_model
 from core.checkpoint import CheckpointIO
-from core_IDSG.model_lm_talking_tran import build_model_idsc, build_model_idsg
+from core_IDSG.model_lm_talking_tran import build_model_idsg
 import network as network2
 import torch
 import torch.nn as nn
