@@ -4,6 +4,7 @@
 ![Pytorch 1.6](https://img.shields.io/badge/pytorch-1.60-green.svg?style=plastic)
 
 ![image](https://github.com/xxxabcc/Dual-Generator-Face-Reenactment/blob/main/result.gif)
+![image](https://github.com/xxxabcc/Dual-Generator-Face-Reenactment/blob/main/result2.gif)
 ![image](https://github.com/xxxabcc/Dual-Generator-Face-Reenactment/blob/main/github_sample.png)
 ![image](https://github.com/xxxabcc/Dual-Generator-Face-Reenactment/blob/main/github_sample2.png)
 **The last row is the result of using the reference face to control the source face.**
