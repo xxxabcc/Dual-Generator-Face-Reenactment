@@ -4,7 +4,7 @@
 ![Pytorch 1.6](https://img.shields.io/badge/pytorch-1.60-green.svg?style=plastic)
 
 ![image](https://github.com/xxxabcc/Dual-Generator-Face-Reenactment/blob/main/result.gif)
-<img width="1024" height="1024" src="ttps://github.com/xxxabcc/Dual-Generator-Face-Reenactment/blob/main/result2.gif"/>
+<img width="1024" height="1024" src="https://github.com/xxxabcc/Dual-Generator-Face-Reenactment/blob/main/result2.gif"/>
 ![image](https://github.com/xxxabcc/Dual-Generator-Face-Reenactment/blob/main/result2.gif)
 ![image](https://github.com/xxxabcc/Dual-Generator-Face-Reenactment/blob/main/github_sample.png)
 ![image](https://github.com/xxxabcc/Dual-Generator-Face-Reenactment/blob/main/github_sample2.png)
