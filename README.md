@@ -29,3 +29,8 @@ https://drive.google.com/file/d/1H8RqQ4GAYSVFt9q3CgIyS1CrOKQRXi7U/view?usp=shari
 > python demo.py
 
 5. For better performance, we strongly recommend using the same version as ours.
+
+## Details of implementataion
+
+![image](https://github.com/xxxabcc/Dual-Generator-Face-Reenactment/blob/main/IDSG.JPG)
+![image](https://github.com/xxxabcc/Dual-Generator-Face-Reenactment/blob/main/RFG.JPG)
